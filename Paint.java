@@ -4,4 +4,5 @@ public class Paint{
 	private Integer id;
 	private String red;
 	private String green;
+	private char gender;
 }
